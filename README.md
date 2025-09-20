@@ -1,0 +1,2 @@
+# Advertising-Data-Analysis-Performance-Insights-and-User-Behavior-Trends
+This project analyzes advertising data across users, campaigns, ads, and ad events to uncover performance trends and user behavior insights. It evaluates key metrics like CTR, Conversion Rate, CPC, and CPA, highlights top-performing campaigns, and explores demographic patterns to guide targeted and cost-effective ad strategies.
